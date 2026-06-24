@@ -20,35 +20,37 @@ body {
   -o-border-radius: 1rem;
 }
 
-header, main, footer {
-    padding-left: 16px;
-    padding-right: 16px;
+header,
+main,
+footer {
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
-header{
-    padding-top: 16px;
-    padding-bottom: 8px;
+header {
+  padding-top: 16px;
+  padding-bottom: 8px;
 }
 
-main{
-    padding-top: 16px;
-    padding-bottom: 8px;
+main {
+  padding-top: 16px;
+  padding-bottom: 10px;
 }
 
-footer{
-    padding-top: 16px;
-    padding-bottom: 8px;
+footer {
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
-img{
-    display: block;
-    width: 336px;
-    height: 152px;
-    border-radius: 1rem;
-    -webkit-border-radius: 1rem;
-    -moz-border-radius: 1rem;
-    -ms-border-radius: 1rem;
-    -o-border-radius: 1rem;
+img {
+  display: block;
+  width: 336px;
+  height: 152px;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
 }
 h2 {
   background-color: #f2eafd;
@@ -70,12 +72,15 @@ h1 {
 }
 .opinion {
   margin: 0;
-  font-weight: 300;
   color: #394150;
   font-size: 14px;
 }
+hr{
+    margin: 0;
+}
 .autor {
-  font-weight: 300;
+  margin-bottom: 0px;
+  font-weight: 400;
   color: #394150;
   font-size: 12px;
 }
