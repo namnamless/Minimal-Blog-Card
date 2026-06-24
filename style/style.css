@@ -1,0 +1,52 @@
+html {
+  background-color: #fafaf9;
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+body {
+  background-color: #ffffff;
+  margin-top: 164px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 368px;
+  box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+}
+
+header, main, footer {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+header{
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+
+main{
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+
+footer{
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+
+img{
+    display: block;
+    width: 336px;
+    height: 152px;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
