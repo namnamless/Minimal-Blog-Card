@@ -50,3 +50,33 @@ img{
     -ms-border-radius: 1rem;
     -o-border-radius: 1rem;
 }
+h2 {
+  background-color: #f2eafd;
+  font-size: 10px;
+  color: #7c19ee;
+  width: fit-content;
+  margin: 16px 0 0 0;
+  padding: 6px 16px 6px 16px;
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
+h1 {
+  font-size: 18px;
+  color: #20293a;
+  margin: 0 0 6px 0;
+}
+.opinion {
+  margin: 0;
+  font-weight: 300;
+  color: #394150;
+  font-size: 14px;
+}
+.autor {
+  margin-bottom: 0;
+  font-weight: 300;
+  color: #394150;
+  font-size: 12px;
+}
